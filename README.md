@@ -75,7 +75,3 @@ The project expects a Parquet dataset containing text and labels.
 
 *Data Scientist | Full Stack & ML Enthusiast*
 
-## 📬 Contact
-
-For any queries, please reach out to:
-Email: yeshwanth.mudimala@motivitylabs.com
