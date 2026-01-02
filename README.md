@@ -68,10 +68,12 @@ The project expects a Parquet dataset containing text and labels.
 - Support for multi-label classification.
 - Integration with live data sources.
 
-## 🙋‍♂️ Author
 
-- **Mudimala Yeshwanth Goud**
-- Mentor: Mr. Venkata Ramana Sudhakar Polavarapu
+## Author
+
+**Yeshwanth Goud**
+
+*Data Scientist | Full Stack & ML Enthusiast*
 
 ## 📬 Contact
 
